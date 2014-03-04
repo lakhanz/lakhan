@@ -1,7 +1,7 @@
 <?php
 session_start();
 include("config/database.php");
-//logout
+//logout//////////lakhan
 $log=$_REQUEST['log'];
 if($log=="logout")
 {
